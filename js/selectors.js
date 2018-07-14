@@ -2,5 +2,6 @@ function paragraphSelector() {
   $('p')
 }
 
-lastImageSelector()
+function lastImageSelector() {
 $('img: last-chid')
+}
